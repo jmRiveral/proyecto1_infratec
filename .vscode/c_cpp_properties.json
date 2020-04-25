@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/**",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "${default}",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe"
+        }
+    ],
+    "version": 4
+}
